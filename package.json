@@ -1,5 +1,5 @@
 {
-  "name": "@hs-web-team/eslint-config-node",
+  "name": "@hs-web-team/eslint-config-ts",
   "version": "0.1.0",
   "description": "HubSpot Marketing WebTeam ESLint rules for Typescript",
   "main": "index.js",
