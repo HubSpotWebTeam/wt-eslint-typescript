@@ -1,0 +1,36 @@
+{
+  "name": "wt-eslint-typescript",
+  "version": "0.1.0",
+  "description": "HubSpot Marketing WebTeam ESLint rules for Typescript",
+  "main": "index.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "lint": "npx eslint -c ./index.js test/index.ts --fix"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HubSpotWebTeam/wt-eslint-typescript.git"
+  },
+  "keywords": [
+    "eslint",
+    "typescript"
+  ],
+  "author": "Operations & Best Practices team",
+  "license": "ISC",
+  "homepage": "https://github.com/HubSpotWebTeam/wt-eslint-typescript#readme",
+  "bugs": {
+    "url": "https://github.com/HubSpotWebTeam/wt-eslint-typescript/issues"
+  },
+  "dependencies": {
+    "eslint": "8.15.0",
+    "typescript": "^4.6.4",
+    "@typescript-eslint/eslint-plugin": "^5.23.0",
+    "@typescript-eslint/parser": "^5.23.0"
+  }
+}
