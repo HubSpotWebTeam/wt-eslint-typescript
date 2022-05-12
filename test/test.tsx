@@ -3,7 +3,7 @@ interface User {
   id: number;
 }
 
-class UserAccount {
+class Test {
   name: string;
   id: number;
 
@@ -13,4 +13,6 @@ class UserAccount {
   }
 }
 
-const user: any = new UserAccount("Murphy", 1);
+console.log('test');
+
+const testUser: any = new Test("Morphy", 1);

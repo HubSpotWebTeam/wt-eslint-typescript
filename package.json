@@ -7,7 +7,7 @@
     "node": ">=10"
   },
   "scripts": {
-    "lint": "npx eslint -c ./index.js test/index.ts --fix"
+    "lint": "npx eslint -c ./index.js test/ --fix"
   },
   "files": [
     "index.js",
