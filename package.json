@@ -1,6 +1,6 @@
 {
   "name": "@hs-web-team/eslint-config-ts",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "HubSpot Marketing WebTeam ESLint rules for Typescript",
   "main": "index.js",
   "engines": {
