@@ -4,7 +4,7 @@
   "description": "HubSpot Marketing WebTeam ESLint rules for Typescript",
   "main": "index.js",
   "engines": {
-    "node": ">=10"
+    "node": ">=14"
   },
   "scripts": {
     "lint": "npx eslint -c ./index.js test/ --fix"
@@ -28,9 +28,9 @@
     "url": "https://github.com/HubSpotWebTeam/wt-eslint-typescript/issues"
   },
   "dependencies": {
-    "eslint": "8.15.0",
-    "typescript": "^4.6.4",
-    "@typescript-eslint/eslint-plugin": "^5.23.0",
-    "@typescript-eslint/parser": "^5.23.0"
+    "@typescript-eslint/eslint-plugin": "^5.27.1",
+    "@typescript-eslint/parser": "^5.27.1",
+    "eslint": "^8.17.0",
+    "typescript": "^4.7.3"
   }
 }
