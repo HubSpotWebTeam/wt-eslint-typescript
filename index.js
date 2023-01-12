@@ -6,16 +6,17 @@ module.exports = {
         '**/*.tsx'
       ],
       rules: {
-        'no-console': ["error", { allow: ["warn", "error"] }],
+        'import/extensions': 'off',
+        'no-console': ['error', { allow: ['warn', 'error'] }],
       },
-      "parser": "@typescript-eslint/parser",
-      "plugins": [
-        "@typescript-eslint"
+      'parser': '@typescript-eslint/parser',
+      'plugins': [
+        '@typescript-eslint'
       ],
-      "extends": [
-        "eslint:recommended",
-        "plugin:@typescript-eslint/eslint-recommended",
-        "plugin:@typescript-eslint/recommended"
+      'extends': [
+        'eslint:recommended',
+        'plugin:@typescript-eslint/eslint-recommended',
+        'plugin:@typescript-eslint/recommended'
       ],
     },
   ],
