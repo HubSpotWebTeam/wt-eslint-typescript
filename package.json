@@ -4,7 +4,7 @@
   "description": "HubSpot Marketing WebTeam ESLint rules for Typescript",
   "main": "index.js",
   "engines": {
-    "node": ">=20"
+    "node": ">=18"
   },
   "scripts": {
     "lint": "npx eslint -c ./index.js ."
