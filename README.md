@@ -23,7 +23,7 @@ Note that this package will only apply rules to TypeScript files (`.ts` and `.ts
 
 1. Install as dev dependency
 
-```
+```sh
 npm i -D @hs-web-team/eslint-config-ts
 ```
 
@@ -62,5 +62,3 @@ or when used with the browser/node rules:
 ## Where to use it
 
 This package is intended to be used in projects that use TypeScript, in conjunction with either the Node or Browser linting packages.
-
-
