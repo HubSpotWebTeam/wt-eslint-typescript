@@ -28,9 +28,9 @@
     "url": "https://github.com/HubSpotWebTeam/wt-eslint-typescript/issues"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^8.17.0",
-    "@typescript-eslint/parser": "^8.17.0",
+    "@typescript-eslint/eslint-plugin": "^8.32.0",
+    "@typescript-eslint/parser": "^8.32.0",
     "eslint": "^8.57.1",
-    "typescript": "^5.7.2"
+    "typescript": "^5.8.3"
   }
 }
