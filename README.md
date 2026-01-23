@@ -1,5 +1,11 @@
 # Hubspot Marketing WebTeam ESLint rules for TypeScript
 
+## :warning: Deprecated
+
+This package is deprecated and will no longer be maintained. Please use the **[wt-eslint-node](https://github.com/HubSpotWebTeam/wt-eslint-node)** package instead.
+
+## Overview
+
 This is a list of TypeScript rules that are recommended for use with Hubspot Marketing WebTeam projects.
 
 https://www.npmjs.com/package/@hs-web-team/eslint-config-ts
